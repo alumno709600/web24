@@ -10,7 +10,7 @@ body {
 /* For desktop: */
 .container {
     width: 90%;
-    margin: 0 auto;
+    margin: 0 auto; 
 }
 /* For mobile: */
 @media screen and (max-width: 1000px) {
@@ -101,7 +101,7 @@ body {
 }
 
 .shadow {
-    box-shadow: 0 0 20px gainsboro;
+    box-shadow: 0 0 20px rgb(132, 146, 106);
     border-radius: 10px;
 }
 nav ul{
@@ -159,7 +159,7 @@ a {
     background-color: rgb(132, 146, 106);
 }
 .bg-azul-c {
-    background-color: rgb(205, 207, 204);
+    background-color: rgb(252, 255, 251);
 }
 .bg-orange {
     background-color: orange;
