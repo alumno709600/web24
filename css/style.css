@@ -243,7 +243,7 @@ h1 {
 }
 
 #listas .icono li {
-    list-style-image: url('/img/icons8-archivo-16.png');
+    list-style-image: url('../img/icons8-archivo-16.png');
 }
 
 #listas .icono li li {
